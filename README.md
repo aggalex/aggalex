@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aggalex
 - 👀 I’m interested in CS, Maths, Music Theory, Arts, and more
-- 🌱 I’m currently learning Laravel & PHP, Vue and Swedish
+- 🌱 I’m working at European Dynamics
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
